@@ -1,0 +1,14 @@
+Actual,Predicted,Correct
+Max Holloway,Max Holloway,True
+Alex Pereira,Alex Pereira,True
+Islam Makhachev,Islam Makhachev,True
+Ilia Topuria,Ilia Topuria,True
+Sean O'Malley,Marlon Vera,False
+Dricus du Plessis,Sean Strickland,False
+Jon Jones,Jon Jones,True
+Belal Muhammad,Leon Edwards,False
+Josh Emmett,Josh Emmett,True
+Pat Sabatini,Pat Sabatini,True
+Brad Tavares,Brad Tavares,True
+Loma Lookboonmee,Istela Nunes,False
+Vanessa Demopoulos,Vanessa Demopoulos,True
